@@ -3,7 +3,7 @@ question="Qual è il tuo trapper preferito?"
 answer_1="Sfera Ebbasta"
 answer_2="DPG-777"
 answer_3_="T3"
-answer_4="T4"
+answer_4="T4 "
 def mostra_domanda(domanda:str) -> None:
     print(domanda)
 
